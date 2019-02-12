@@ -14,6 +14,10 @@
 # Q4: What is your Gender?
 # Q5: Do you prefer Nike or Addidas?
 ######################################################################################
+# In order to run the H2O library install the H2O java library first:
+# http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html
+# Don't omit the java installation (steps 1 and 2) as the R package won't run without
+######################################################################################
 # Author: Marcus Rabe and Team 12
 ######################################################################################
 
